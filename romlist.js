@@ -1,7 +1,1 @@
-var ROMLIST = [
-    /*
-    {url:"roms/rom1.z64",title:"Game 1"},
-    {url:"roms/rom2.v64",title:"Game 2"},
-    {url:"roms/rom3.v64",title:"Game 3"},
-    */
-];
+var ROMLIST = [ {url: "https://www.mediafire.com/file/t9gllv3l8ljsa2e/Conker's+Bad+Fur+Day+(USA).z64/file", title: "Conker's Bad Fur Day"} ];
